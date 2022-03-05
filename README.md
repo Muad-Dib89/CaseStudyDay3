@@ -19,7 +19,7 @@ Rapid Growth and ability to service and work with companies of all sizes allows 
 The ease of access and size of the Stripe company allow them price products competiviley
 
 #### Contributors ####
-Jacob
+Jacob  
 Jared
 
 ![Stipe!](https://images.ctfassets.net/fzn2n1nzq965/6JEjxpwMd1OIIk6RosReNU/3d5c5f5217a7cce4af750ebfe599b6fc/Payments-social-card.png?q=80)
