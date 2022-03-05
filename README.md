@@ -18,7 +18,7 @@ Businesses of every size—from new startups to public companies—use our softw
 Rapid Growth and ability to service and work with companies of all sizes allows the company to have a broad portfolio  
 The ease of access and size of the Stripe company allow them price products competiviley
 
-####Contributors####
+#### Contributors ####
 Jacob
 Jared
 
