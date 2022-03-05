@@ -2,7 +2,7 @@
 ## Background ##
 Stripe provides plug-and-play API’s to manage the (rather complex) processing of making and receiving  
 payments on a website, most notably via credit card.  
-The company started in 2008, Pay-Pal funded their startup **(2 million)***
+The company started in 2008, Pay-Pal funded their startup **($2 million)**
   
 Main competitors: 
   1. PayPal
